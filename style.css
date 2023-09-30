@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(34, 32, 32);
+}
+h1{
+    color: violet;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    text-decoration: line-through;
+    border: 1px solid skyblue;
+    background-color: skyblue;
+    width: 540px;
+    text-align: left;
+    height: 130px;
+    margin-top: 20px;
+    padding-top: 60px;
+}
+.Section1{
+    color: darkblue;
+    border: 1px solid lightgreen;
+    background-color: lightgreen;
+    font-family: 'Pacifico', cursive;
+    word-spacing: 70px;
+    width: 500px;
+    text-align: center;
+    height: 130px;
+    margin-top: 20px;
+    padding-top: 60px;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.Section2{
+    border: 1px solid;
+    text-align: justify;
+    background-color: brown;
+    width: 500px;
+    height: 220px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
